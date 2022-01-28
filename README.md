@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋
+<div align="center">
+<img width="640" height="360" alt="GIF" src="images/deku.gif">
+</div>
 
-<!--
-**AshuYadavYT/AshuyadavYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+</br>
+</br>
 
-Here are some ideas to get you started:
+## About Me
+### I'm 17 years old human from India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+## Contact Me
+<p>
+  <a href="mailto:ashuyadav4250@gmail.com">
+    <img width="60" hight="100" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" alt="img">
+  </a></br>
+  <a href="https://www.twitter.com">
+    <img width="60" hight="80" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="img">
+  </a>
+</p>
