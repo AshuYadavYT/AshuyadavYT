@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello World 👋
 <div align="center">
 <img width="640" height="360" alt="GIF" src="images/deku.gif">
 </div>
