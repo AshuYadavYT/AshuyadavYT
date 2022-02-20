@@ -8,21 +8,8 @@
 </br>
 
 ```python
-import you, mail
-
-def AshuYadav(age="17"):
-    Hobby = ['Gaming','Coding','Anime']
-    Learning = ["Advance Python", "Web Development"]
-
 while True:
   print("Never Give Up!")
-
-def contact_me()
-  if you.wanna.contact():
-    mail.me("ashuyadav4250@gmail.com")
-  else:
-    print("👇 👇")
-
 ```
 
 </br>
